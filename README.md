@@ -64,3 +64,23 @@ cd ../arduino-nicla-voice-firmware
 mv firmware-arduino-nicla-voice.ino.elf firmware.ino.elf
 ./flash_mac.command
 ```
+
+## About the Model
+
+| **Dataset**         | **Size**       |
+|---------------------|----------------|
+| Training dataset    | 797 × 1 second |
+| Testing dataset     | 194 × 1 second |
+| **Final Accuracy**  | **97.42%**     |
+
+Confusion matrix:
+| Actual / Predicted | Snoring | Z_Openset | Uncertain |
+|--------------------|---------|-----------|-----------|
+| **Snoring**        | 97.9%   | 1.0%      | 1.0%      |
+| **Z_Openset**      | 2.0%    | 96.9%     | 1.0%      |
+
+
+## Credits
+- Edge Impulse's [Snoring Detection Guide](https://docs.edgeimpulse.com/experts/audio-projects/arduino-nicla-voice-syntiant-snoring-detection)
+- Edge Impulse's [Custom Nicla Voice Firmware](https://cdn.edgeimpulse.com/firmware/arduino-nicla-voice-firmware.zip)
+- Tareq Khan's [Snoring dataset on Kaggle](https://www.kaggle.com/datasets/tareqkhanemu/snoring)
