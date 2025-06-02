@@ -8,7 +8,7 @@ This repo contains the files to run a snoring detection model on Arduino Nicla v
 ## Equipments
 ### 1. Arduino Nicla Voice
 <p align="center">
-  <img src="./1.png"  width="200"/>
+  <img src="./hardware-spec/1.png"  width="200"/>
 </p>
 
 - [Datasheet](https://robu.in/wp-content/uploads/2023/02/ABX00061-datasheet.pdf)
@@ -18,7 +18,7 @@ This repo contains the files to run a snoring detection model on Arduino Nicla v
 Standard 12V 3A Power Supply with 5.5mm DC Plug Desktop Type
 
 <p align="center">
-  <img src="./hardware-spec/hardware-spec/2.png"  width="200"/>
+  <img src="./hardware-spec/2.png"  width="200"/>
 </p>
 
 - [Datasheet](https://robu.in/wp-content/uploads/2024/12/adapter-spec-12VDC-3.0A.pdf)
@@ -27,7 +27,7 @@ Standard 12V 3A Power Supply with 5.5mm DC Plug Desktop Type
 24V/12V to 5V 5A Power Module DC-DC XY-3606 Power Converter
 
 <p align="center">
-  <img src="./hardware-spec/hardware-spec/3.png"  width="200"/>
+  <img src="./hardware-spec/3.png"  width="200"/>
 </p>
 
 - [Diagram](https://robu.in/wp-content/uploads/2021/05/975683.jpg)
@@ -47,7 +47,7 @@ Standard 12V 3A Power Supply with 5.5mm DC Plug Desktop Type
 | Weight (g)               | 15                             |
 
 <p align="center">
-  <img src="./hardware-spec/hardware-spec/4.png"  width="200"/>
+  <img src="./hardware-spec/4.png"  width="200"/>
 </p>
 
 - [Datasheet](https://robu.in/wp-content/uploads/2015/10/H-bridge_motor_driver.pdf)
@@ -66,14 +66,14 @@ Standard 12V 3A Power Supply with 5.5mm DC Plug Desktop Type
 | Weight (g)              | 30        |
 
 <p align="center">
-  <img src="./hardware-spec/hardware-spec/5.png"  width="200"/>
+  <img src="./hardware-spec/5.png"  width="200"/>
 </p>
 
 
 6. Electric valve
 
 <p align="center">
-  <img src="./hardware-spec/hardware-spec/6.png"  width="200"/>
+  <img src="./hardware-spec/6.png"  width="200"/>
 </p>
 
 7. Bladder
@@ -81,7 +81,7 @@ Standard 12V 3A Power Supply with 5.5mm DC Plug Desktop Type
 Sahyog Wellness Arm Blood Pressure BP Rubber Bladder Having Double Tube for Sphygmomanometer Bp Monitor (Black)
 
 <p align="center">
-  <img src="./hardware-spec/hardware-spec/7.png"  width="200"/>
+  <img src="./hardware-spec/7.png"  width="200"/>
 </p>
 
 - [Amazon](https://www.amazon.in/dp/B0BW5PGWZJ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
@@ -89,5 +89,5 @@ Sahyog Wellness Arm Blood Pressure BP Rubber Bladder Having Double Tube for Sphy
 8. USB micro-B to USB A cable
 
 <p align="center">
-  <img src="./hardware-spec/hardware-spec/8.png"  width="200"/>
+  <img src="./hardware-spec/8.png"  width="200"/>
 </p>
